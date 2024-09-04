@@ -22,10 +22,10 @@ Below are the instructions for this assignment. Your repository should automatic
 
 ### 📝 TODO: Complete this section
 
-* **Your name and PID**:
+* Peyton Ludwig (peymae6):
 
-* **Your partner's name and PID:**
+* Was out sick so didn't have an in-class partner 
 
-* **Link to selected coding challenge:**
+* [**Link to selected coding challenge:**](https://leetcode.com/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75)
 
-* **Summary of partner's interview feedback:**
+* **Summary of partner's interview feedback:** N/A
